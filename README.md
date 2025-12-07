@@ -31,7 +31,8 @@ A clone of the Refactory Academy landing page built with HTML and CSS.
 
 ## Live Demo
 
-[View Live Site]https://ir-prosper.github.io/refactory-clone/
+🌍 Live site: https://ir-prosper.github.io/refactory-clone/  
+📂 Repository: https://github.com/Ir-Prosper/refactory-clone
 
 ## Author
 
